@@ -423,7 +423,7 @@ export default function Sidebar() {
                     <MoonIcon className="h-6 w-6" aria-hidden="true" />
                   </button>
                   <a
-                    href="https://github.com/EEarlll"
+                    href="https://github.com/EEarlll/e-Trends"
                     target="_blank"
                     className="rounded-full bg-white dark:bg-gray-700 p-1 text-gray-400 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
                   >
