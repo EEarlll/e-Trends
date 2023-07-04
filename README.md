@@ -1,4 +1,4 @@
-# E-Trends
+# E-Trends - https://e-trends.vercel.app/
 
 Welcome to E-Trends! This is a personal project that I have created to showcase my skills, share my interests, and provide valuable information to visitors. 
 
