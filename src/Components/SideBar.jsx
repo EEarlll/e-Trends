@@ -287,7 +287,7 @@ export default function Sidebar() {
                     </div>
                     <a
                       className="py-2 px-2"
-                      href="https://github.com/EEarlll"
+                      href="https://github.com/EEarlll/e-Trends"
                       target="_blank"
                     >
                       Made by Earl
